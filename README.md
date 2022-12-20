@@ -5,8 +5,8 @@
 - I'm intrested in cybersecurity, even though I don't know which path yet
 ### Currently learning
 - Binary exploitation and reverse engineering
-- Golang
-- Java
+- Rust
+- C#
 
 <!---
 Shalito01/Shalito01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
