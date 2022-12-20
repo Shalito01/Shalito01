@@ -6,7 +6,7 @@
 ### Currently learning
 - Binary exploitation and reverse engineering
 - Rust
-- C#
+- C#, .NET
 
 <!---
 Shalito01/Shalito01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
