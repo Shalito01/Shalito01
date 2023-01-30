@@ -1,4 +1,4 @@
-👋 Hi, I’m Daniel Shala
+👋 Hi, I’m Daniel
 
 ## About Me
 - 🎓 Studying Ingegneria Informatica at Politecnico di Milano
