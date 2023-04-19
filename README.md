@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 Studying Ingegneria Informatica at Politecnico di Milano
-- I'm intrested in cybersecurity, even though I don't know which path yet
+- I'm intrested in cybersecurity, ML
 ### Currently learning
 - Binary exploitation and reverse engineering
 - Rust
