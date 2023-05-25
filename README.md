@@ -2,10 +2,9 @@
 
 ## About Me
 - 🎓 Studying Ingegneria Informatica at Politecnico di Milano
-- I'm intrested in cybersecurity, ML
+- I'm intrested in cybersecurity
 ### Currently learning
 - Binary exploitation and reverse engineering
-- Rust
 - C#, .NET
 
 <!---
