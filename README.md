@@ -1,7 +1,7 @@
 👋 Hi, I’m Daniel
 
 ## About Me
-- 🎓 Studying Ingegneria Informatica at Politecnico di Milano
+- 🎓 Studying CS Eng. at Politecnico di Milano
 - I'm intrested in cybersecurity
 ### Currently learning
 - Binary exploitation and reverse engineering
